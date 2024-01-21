@@ -42,5 +42,5 @@ Adjust any other settings as needed in the code for specific requirements.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ganesh81471/RFID_WITH_DATALOGGING.git
+   cd RFID_WITH_DATALOGGING
